@@ -36,9 +36,9 @@ Through these exercises, I have developed and demonstrated skills in:
 
 ## Exercises and Rooms
 Here are the exercises included in this repository:
-1. **[Room Name 1](./room-name-1/README.md)**: Brief description of what the room covers.
-2. **[Room Name 2](./room-name-2/README.md)**: Another brief description.
-3. **Room Name 3**: Description of the room's focus.
+1. **[Room Name 1](./room-name-1/README.md)**: ...
+2. **[Room Name 2](./room-name-2/README.md)**: ....
+3. **[Room Name 3](./room-name-2/README.md)**: ....
 
 *(Add links to folders or files for each room.)*
 
