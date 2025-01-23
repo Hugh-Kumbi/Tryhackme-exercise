@@ -31,14 +31,18 @@ In this scenario, after using Gobuster to identify the hidden /bank-transfer pag
 
  I accessed it through the browser's address bar. 
 
-![Screenshot 2025-01-22 065934](https://github.com/user-attachments/assets/ea3e4b90-24dc-4210-ac04-b30a56270e8a)
 
 Upon reaching this page, I realized that it allowed unauthorized access for transferring money between bank accounts. This vulnerability could potentially be exploited by an attacker to steal funds from bank accounts.
 
-![Screenshot 2025-01-22 065954](https://github.com/user-attachments/assets/17a7d34e-ff93-416f-83e6-2062bfdd2f75)
 
 As an ethical hacker, my role is to identify such vulnerabilities and report them to the bank so they can fix the issue before malicious hackers exploit it.
 
-For this exercise, my mission was to transfer $2000 from account number 2276 to my own account (number 8881). After successfully making the transfer, I navigated to my account page to confirm the balance update. I refreshed the page if necessary to ensure the changes were reflected.
+For this exercise, my mission was to transfer $2000 from account number 2276 to my own account (number 8881). 
+
+![Screenshot 2025-01-22 065934](https://github.com/user-attachments/assets/ea3e4b90-24dc-4210-ac04-b30a56270e8a)
+
+![Screenshot 2025-01-22 065954](https://github.com/user-attachments/assets/17a7d34e-ff93-416f-83e6-2062bfdd2f75)
+
+After successfully making the transfer, I navigated to my account page to confirm the balance update. I refreshed the page if necessary to ensure the changes were reflected.
 
 ![Account check](https://github.com/user-attachments/assets/26868ef5-e665-4591-b275-cd3b8aa9a7c7)
