@@ -25,15 +25,9 @@ In the command above, the `-u` flag specifies the website we are scanning (in th
 As Gobuster runs, it scans the website using each word from the list to identify resources that exist. Any pages or directories successfully found are indicated by a status code of `200`, which means the resource is accessible. This exercise demonstrated how tools like Gobuster can reveal unsecured areas of a website, emphasizing the importance of thorough security practices to mitigate such risks.
 
 ## Step 3: Hacking the Bank
-In this scenario, after using Gobuster to identify the hidden /bank-transfer page on FakeBank's website.
+In this scenario, after using Gobuster to identify the hidden /bank-transfer page on FakeBank's website. I accessed it through the browser's address bar. Upon reaching this page, I realized that it allowed unauthorized access for transferring money between bank accounts. This vulnerability could potentially be exploited by an attacker to steal funds from bank accounts.
 
 ![/bank-transfer](https://github.com/user-attachments/assets/d56b0309-e0dd-49f6-88a6-68cb538c50d3)
-
- I accessed it through the browser's address bar. 
-
-
-Upon reaching this page, I realized that it allowed unauthorized access for transferring money between bank accounts. This vulnerability could potentially be exploited by an attacker to steal funds from bank accounts.
-
 
 As an ethical hacker, my role is to identify such vulnerabilities and report them to the bank so they can fix the issue before malicious hackers exploit it.
 
