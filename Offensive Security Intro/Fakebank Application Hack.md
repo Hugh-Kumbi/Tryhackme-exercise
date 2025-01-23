@@ -16,7 +16,7 @@ To identify such hidden pages on FakeBank's website, I used Gobuster, a command-
 
 After running the command `gobuster -u http://fakebank.thm -w wordlist.txt dir`, Gobuster began scanning the FakeBank website using the specified wordlist. The output displayed potential hidden directories and pages that existed on the site. This process demonstrated how attackers could use tools like Gobuster to identify unprotected resources, highlighting the critical need for securing web applications by restricting access to sensitive directories.
 
-![Gobuster command to brute-force website pages](https://github.com/user-attachments/assets/c9d34be8-c9aa-4c16-827e-f160a543e841)
+![image](https://github.com/user-attachments/assets/e0e7dc7f-a188-42db-90cd-b01019875048)
 
 In the command above, the `-u` flag specifies the website we are scanning (in this case, `http://fakebank.thm`), while the `-w` flag takes a wordlist that Gobuster iterates through to find hidden pages or directories.
 
