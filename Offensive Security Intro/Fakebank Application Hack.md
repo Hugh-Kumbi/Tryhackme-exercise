@@ -41,4 +41,4 @@ As an ethical hacker, my role is to identify such vulnerabilities and report the
 
 For this exercise, my mission was to transfer $2000 from account number 2276 to my own account (number 8881). After successfully making the transfer, I navigated to my account page to confirm the balance update. I refreshed the page if necessary to ensure the changes were reflected.
 
-![Account chaeck](https://github.com/user-attachments/assets/cbe7f2a0-7a9e-42e4-8594-c8c2326372f7)
+![Account check](https://github.com/user-attachments/assets/26868ef5-e665-4591-b275-cd3b8aa9a7c7)
